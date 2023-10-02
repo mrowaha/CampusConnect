@@ -1,7 +1,8 @@
-# CampusConnect Backend
+# CampusConnect
 <small>CS 319 Object Oriented Project</small>
 [API](https://github.com/mrowaha/CampusConnect.api)
-
+[APP](https://github.com/mrowaha/CampusConnect.web)
+======================================
 ## Contributors
 1. [Maher Ather Ilyas](https://github.com/Atherrrrr)
 2. [Mehshid Atiq](https://github.com/MehshidAtiq)
