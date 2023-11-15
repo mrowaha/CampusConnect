@@ -1,7 +1,8 @@
-[submodule "app"]
-	path = app
-	url = https://github.com/mrowaha/CampusConnect.web.git
 [submodule "backend"]
 	path = backend
 	url = https://github.com/mrowaha/CampusConnect.api.git
+	branch = dev
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/mrowaha/CampusConnect.web.git
 	branch = dev
