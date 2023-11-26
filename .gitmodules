@@ -6,3 +6,7 @@
 	path = frontend
 	url = https://github.com/mrowaha/CampusConnect.web.git
 	branch = dev
+[submodule "frontend turborepo"]
+	path = frontend turborepo
+	url = https://github.com/ghulamio/CampusConnect.web-turborepo
+	branch = main
