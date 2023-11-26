@@ -8,5 +8,5 @@
 	branch = dev
 [submodule "frontend-turborepo"]
 	path = frontend-turborepo
-	url = https://github.com/ghulamio/CampusConnect.web-turborepo
+	url = https://github.com/ghulamio/CampusConnect.web-turborepo.git
 	branch = main
